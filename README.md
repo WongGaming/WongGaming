@@ -1,5 +1,10 @@
-## Hi there 👋
+## Welcome to my Github Page! 👋
+- I am currently a student, learning to program in C# and trying to work with monogame.
+- I am a freelance composer, please hit me up on discord! - @wong_gaming
+- I'm looking to collaborate on FL Studio, to try and broaden my view on composition.
+- I'm looking for help with machine learning and deep learning, as my project that I am doing for school requires this.
 
+## Thank you for reading this! Have a wonderful day! ✨✨
 <!--
 **WongGaming/WongGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
